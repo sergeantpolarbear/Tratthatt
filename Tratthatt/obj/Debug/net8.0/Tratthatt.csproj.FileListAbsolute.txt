@@ -1,0 +1,14 @@
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\bin\Debug\net8.0\Tratthatt.exe
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\bin\Debug\net8.0\Tratthatt.deps.json
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\bin\Debug\net8.0\Tratthatt.runtimeconfig.json
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\bin\Debug\net8.0\Tratthatt.dll
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\bin\Debug\net8.0\Tratthatt.pdb
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\obj\Debug\net8.0\Tratthatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\obj\Debug\net8.0\Tratthatt.AssemblyInfoInputs.cache
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\obj\Debug\net8.0\Tratthatt.AssemblyInfo.cs
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\obj\Debug\net8.0\Tratthatt.csproj.CoreCompileInputs.cache
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\obj\Debug\net8.0\Tratthatt.dll
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\obj\Debug\net8.0\refint\Tratthatt.dll
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\obj\Debug\net8.0\Tratthatt.pdb
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\obj\Debug\net8.0\Tratthatt.genruntimeconfig.cache
+C:\Users\filip.fagerstrom\Desktop\Prog1\Tratthatt\Tratthatt\obj\Debug\net8.0\ref\Tratthatt.dll
